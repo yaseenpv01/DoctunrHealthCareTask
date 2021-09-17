@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DoctuneHealthCareTask</string>
+
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_invalid_username">Invalid Username</string>
+</resources>
